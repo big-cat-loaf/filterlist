@@ -1,4 +1,4 @@
-Filterlist mangaread.org
+Filterlist mangaread
 www.mangaread.org##.wcContent
 www.mangaread.org##.wcHeader
 www.mangaread.org##.wp-manga-action-button
@@ -84,7 +84,7 @@ Filterlist LocalCDN
 * use.fontawesome.com.cdn.cloudflare.net * noop
 * vo.aicdn.com * noop
 
-asurascans.com
+Filterlist asurascans
 www.asurascans.com###simple-banner > .simple-banner-text
 www.asurascans.com##.nextprev > [href="https://www.patreon.com/join/venerableasura"]
 www.asurascans.com##[href="https://www.asurascans.com/wp-login.php"] > span
