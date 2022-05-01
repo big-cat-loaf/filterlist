@@ -1,4 +1,4 @@
-Filterlsit mangaread.org
+Filterlist mangaread.org
 www.mangaread.org##.wcContent
 www.mangaread.org##.wcHeader
 www.mangaread.org##.wp-manga-action-button
