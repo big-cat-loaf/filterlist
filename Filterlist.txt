@@ -12,7 +12,8 @@ www.mangaread.org##.site-footer
 www.mangaread.org##.show.custom-modal.fade.modal
 www.mangaread.org##.show.fade.modal-backdrop
 www.mangaread.org##[src="https://www.mangaread.org/wp-content/uploads/2021/10/image1.jpg"]
-www.mangaread.org##.widget_text.heading-style-1.no-icon.default.col-md-12.col-12.widget
+www.mangaread.org##.widget_text.heading-style-1.no-icon.default.col-md-12.col-12.widget#
+
 Filterlist LocalCDN
 * ajax.googleapis.com * noop
 * ajax.aspnetcdn.com * noop
@@ -79,4 +80,3 @@ Filterlist LocalCDN
 * sdn.inbond.gslb.geekzu.org * noop
 * use.fontawesome.com.cdn.cloudflare.net * noop
 * vo.aicdn.com * noop
-test
