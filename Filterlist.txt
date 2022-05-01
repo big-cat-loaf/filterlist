@@ -13,6 +13,7 @@ www.mangaread.org##.show.custom-modal.fade.modal
 www.mangaread.org##.show.fade.modal-backdrop
 www.mangaread.org##[src="https://www.mangaread.org/wp-content/uploads/2021/10/image1.jpg"]
 www.mangaread.org##.widget_text.heading-style-1.no-icon.default.col-md-12.col-12.widget#
+www.mangaread.org##.c-breadcrumb-wrapper
 
 Filterlist LocalCDN
 * ajax.googleapis.com * noop
