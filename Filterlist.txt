@@ -99,3 +99,5 @@ www.asurascans.com###indicator-south
 3rd party that no one whats. 
 gravatar.com
 fonts.googleapis.com
+gstatic.com
+cloudflare.com
