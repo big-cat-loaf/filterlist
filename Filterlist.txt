@@ -98,6 +98,3 @@ www.asurascans.com###indicator-south
 
 3rd party that no one wants
 gravatar.com
-fonts.googleapis.com
-gstatic.com
-cloudflare.com
